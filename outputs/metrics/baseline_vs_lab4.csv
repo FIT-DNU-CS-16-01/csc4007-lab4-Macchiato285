@@ -1,0 +1,2 @@
+source,model,accuracy,macro_f1,notes
+lab4_current_run,gru,0.85352,0.8535127398570077,Current Lab 4 run
